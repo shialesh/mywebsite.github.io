@@ -74,8 +74,7 @@ body
 
 #menu ul ul
 {
-	margin:		0px;
-	padding:	0px;		
+	margin:		0px;	padding:	0px;		
 	position:	absolute;
 	display:	none;
 }
@@ -85,8 +84,7 @@ body
 }
 #content
 {
-	min-height:      390px;
-	width:           1040px;
+	min-height:      390px;	width:           1040px;
 	margin:          0 auto;
 	background-color:#FDFDFD;
 }
@@ -129,7 +127,7 @@ h2
 	left:            2em;
 	font-size:       1.8em;
 	font-weight:     normal;
-	color:           #008080;
+	color:           0AA50F;
 }
 
 h3
