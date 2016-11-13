@@ -86,7 +86,7 @@ body
 {
 	min-height:      390px;	width:           1040px;
 	margin:          0 auto;
-	background-color:#FDFDFD;
+	background-color:#000000;
 }
 
 #insidecontent
@@ -100,7 +100,7 @@ body
 #insidecontent p
 {
 	margin:          0;
-	color:           C30C24;
+	color:           767676;
 	font-family:     Tahoma;
 	font-size:       1.2em;
 	line-height:     170%;
