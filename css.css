@@ -56,8 +56,7 @@ body
 	height:		25px;
 	line-height:	25px;
 	text-align:	center;
-	float:		left;
-}
+	float:		left;}
 
 #menu ul li a
 {
@@ -67,8 +66,7 @@ body
 }
 
 #menu ul li a:hover
-{
-	background-color:   #6A7919;
+{	background-color:   #6A7919;
 	color:           #FDFDFD;
 }
 
@@ -100,7 +98,7 @@ body
 #insidecontent p
 {
 	margin:          0;
-	color:           767676;
+	color:           #B0E0E6;
 	font-family:     Tahoma;
 	font-size:       1.2em;
 	line-height:     170%;
@@ -113,7 +111,7 @@ h1
 {
 	margin:          0;
 	font-weight:     normal;
-	color:           #800000;
+	color:           #008080;
 	font-size:       2.5em;
 	font-family:Times;
 }
@@ -135,7 +133,7 @@ h3
 	margin:          0;
 	font-size:       1.5em;
 	font-weight:     normal;
-	color:           138B17;
+	color:           #5F9EA0;
 }
 
 #footer
