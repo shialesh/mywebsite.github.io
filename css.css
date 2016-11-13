@@ -26,12 +26,13 @@ body
 
 .headtitle
 {
-	position:       absolute;
+	position:       relative;
 	font-family:     Times;
 	font-size:       50px;
 	color:           #FFFFFF;
-	left:            12px;
-}
+	line-height:	280px;
+	text-align:	left;
+}	
 
 #menu
 {
